@@ -7,7 +7,7 @@ sections:
       en Tecnologias de la Informacion.
     subtitle: >-
       Le ayudaremos para que pueda solucionar sus problemas en Tecnologias de La
-      informacion y Comunicacion con sus clientes, a muy bajo costo.
+      informacion y Comunicacion en su negocio, a muy bajo costo.
     actions:
       - label: Contáctame
         url: /contact
