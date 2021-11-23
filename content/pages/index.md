@@ -114,7 +114,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Testimonios
     subtitle: Lo que dicen mis clientes
     grid_items:
       - content: >-
