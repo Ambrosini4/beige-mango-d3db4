@@ -24,7 +24,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Con la confianza de empresas grandes y pequeñas
     subtitle: Who I work with
     align: center
     grid_items:
