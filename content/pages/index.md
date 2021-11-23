@@ -9,7 +9,7 @@ sections:
       Le ayudaremos para que pueda solucionar sus problemas en Tecnologias de La
       informacion y Comunicacion con sus clientes a muy bajo costo.
     actions:
-      - label: Contact Me
+      - label: Contáctame
         url: /contact
         style: primary
     image: images/hero.png
