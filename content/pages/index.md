@@ -83,7 +83,7 @@ sections:
           la información correcta a través de su documentación, folletos,
           manuales y documentos técnicos.
         actions:
-          - label: See Past Work
+          - label: Ver trabajos anteriores
             url: /faq
             style: primary
             has_icon: true
