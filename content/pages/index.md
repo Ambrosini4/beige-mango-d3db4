@@ -60,7 +60,7 @@ sections:
     subtitle: Qué hacemos
     features:
       - title: Creacion de Aplicaciones
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'Sitios Web, Blog, Apps, Redes Sociales y mas.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
