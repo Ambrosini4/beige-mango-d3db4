@@ -62,7 +62,7 @@ sections:
       - title: Creacion de Aplicaciones
         subtitle: 'Sitios Web, Blog, Apps, Redes Sociales y mas.'
         content: >
-          Creacion de aplicaciones Web, Aplicaciones Moviles cualquier sistema
+          Creacion de aplicaciones web, Aplicaciones moviles, cualquier sistema
           de informacion a su medida. ¡Ningún trabajo es demasiado grande o
           pequeño!
         actions:
