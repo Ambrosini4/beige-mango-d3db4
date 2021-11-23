@@ -1,24 +1,28 @@
 ---
-title: Style Guide
+title: Guía de estilo
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Theme Style Guide
       keyName: property
-    - name: og:description
-      value: A reference for suggested typographic treatment and styles for your content
+    - name: 'og:description'
+      value: >-
+        A reference for suggested typographic treatment and styles for your
+        content
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Theme Style Guide
-    - name: twitter:description
-      value: A reference for suggested typographic treatment and styles for your content
+    - name: 'twitter:description'
+      value: >-
+        A reference for suggested typographic treatment and styles for your
+        content
 layout: page
 ---
 
