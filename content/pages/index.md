@@ -60,7 +60,7 @@ sections:
     subtitle: Qué hacemos
     features:
       - title: Creacion de Aplicaciones
-        subtitle: 'Sitios Web, Blog, Apps, Redes Sociales y mas.'
+        subtitle: 'Sitios Web, Blogs, Apps, Redes Sociales y mas.'
         content: >
           Creacion de aplicaciones web, Aplicaciones moviles, cualquier sistema
           de informacion a su medida. ¡Ningún trabajo es demasiado grande o
