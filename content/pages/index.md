@@ -66,7 +66,7 @@ sections:
           de informacion a su medida. ¡Ningún trabajo es demasiado grande o
           pequeño!
         actions:
-          - label: See Writing Samples
+          - label: Ver ejemplos de escritura
             url: /faq
             style: primary
             has_icon: true
