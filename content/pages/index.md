@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Con la confianza de empresas grandes y pequeñas
-    subtitle: Con quién trabajo
+    subtitle: Con quién trabajamos
     align: center
     grid_items:
       - image: images/logo-1.svg
