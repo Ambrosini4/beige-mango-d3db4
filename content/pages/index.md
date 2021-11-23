@@ -164,12 +164,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      ## Hablemos
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Si desea obtener más información sobre servicios y precios, póngase en
+      contacto con nosotros utilizando el siguiente formulario.
     content_align: left
     form_position: right
     form_width: fifty
