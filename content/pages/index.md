@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hola, en GRUPONET .'
+    title: 'Hola, en GRUPONET ayudamos a nuestros clientes a .'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
