@@ -11,22 +11,13 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >
+      ## Letra chica
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
-
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
-
-      ### Terms
-
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+      Si en algún momento desea cancelar nuestro proyecto, debe proporcionar un
+      aviso por escrito de 30 días, después de lo cual le transferiré todos sus
+      activos para que pueda usarlos en cualquier momento.
     content_align: left
     form_position: left
     form_width: fifty
